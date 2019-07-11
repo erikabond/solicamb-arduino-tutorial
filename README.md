@@ -9,3 +9,7 @@ For more info, check out our:
 * [Facebook](https://facebook.com/solicamb)
 * [Twitter](https://twitter.com/solicamb)
 * [Instagram](https://instagram.com/solicamb)
+
+
+
+This repository contains the Arduino sketch necessary to run the tcs34725 colour sensor for pH and nitrate testing. Instructions of how to set up the sensor and generate usable data are provided during the workshop.
